@@ -1,0 +1,142 @@
+City,Aggregate rating,Cuisines,Average Cost for two,restaurant_count
+Abu Dhabi,4.3,American,182.0,20
+Agra,3.96,"North Indian, Mughlai",1065.0,20
+Ahmedabad,4.16,"Cafe, American, Continental, Armenian, Fast Food",857.14,21
+Albany,3.56,Unknown,19.75,20
+Allahabad,3.4,"North Indian, Chinese",517.5,20
+Amritsar,3.69,North Indian,480.95,21
+Ankara,4.3,"Kebab, Turkish Pizza",87.25,20
+Armidale,3.5,"Bar Food, Steak",20.0,1
+Athens,4.2,"American, Italian, Pizza",19.0,20
+Auckland,4.28,Cafe,68.25,20
+Augusta,4.13,Mexican,27.0,20
+Aurangabad,3.38,North Indian,622.5,20
+Balingup,3.2,Modern Australian,20.0,1
+Bandung,4.2,"Cafe, Coffee and Tea, Western",150000.0,1
+Bangalore,4.38,"Pizza, Cafe, Italian",1232.5,20
+Beechworth,4.6,"Pizza, Bar Food",20.0,1
+Bhopal,3.95,Fast Food,620.0,20
+Bhubaneshwar,3.98,Chinese,678.57,21
+Birmingham,3.68,Italian,39.0,20
+Bogor,3.85,"Cafe, Desserts, Beverages",160000.0,2
+Boise,4.26,"American, Bar Food",27.25,20
+Bras�_lia,3.5,International,120.0,20
+Cape Town,4.11,"Burger, American",297.2,20
+Cedar Rapids/Iowa City,4.16,"American, Breakfast, Burger",25.75,20
+Chandigarh,4.05,"American, Cafe",1072.22,18
+Chatham-Kent,3.7,"Japanese, Sushi",25.0,1
+Chennai,4.31,"North Indian, Mughlai, Chinese, South Indian",1085.0,20
+Clatskanie,4.3,"American, Breakfast, Desserts",10.0,1
+Cochrane,3.1,"Asian, Japanese",25.0,1
+Coimbatore,4.14,"Bakery, Desserts",782.5,20
+Colombo,3.87,"American, Chinese, North Indian",2375.0,20
+Columbus,4.03,American,26.75,20
+Consort,3.0,"Chinese, Canadian",25.0,1
+Dalton,4.11,"American, BBQ, Southern",16.0,20
+Davenport,3.72,American,25.25,20
+Dehradun,4.05,Cafe,727.5,20
+Des Moines,4.24,"American, BBQ",28.0,20
+Dicky Beach,3.6,"Coffee and Tea, Tea, Modern Australian",7.0,1
+Doha,4.06,Indian,223.75,20
+Dubai,4.37,Indian,211.75,20
+Dubuque,3.54,Mexican,23.75,20
+East Ballina,4.1,Cafe,20.0,1
+Edinburgh,4.09,American,38.5,20
+Faridabad,1.87,North Indian,447.61,251
+Fernley,3.7,Mexican,10.0,1
+Flaxton,3.5,"Tea, Modern Australian",30.0,1
+Forrest,3.7,"Cafe, Australian",20.0,1
+Gainesville,4.04,"American, Southern",21.25,20
+Ghaziabad,2.85,Cafe,602.0,25
+Goa,4.24,"Continental, Goan, Seafood, North Indian",1175.0,20
+Gurgaon,2.65,North Indian,714.02,1118
+Guwahati,4.19,Cafe,821.43,21
+Hepburn Springs,3.8,"Cafe, Coffee and Tea, Modern Australian",13.5,2
+Huskisson,4.1,"Breakfast, Modern Australian",20.0,1
+Hyderabad,4.34,"European, Mediterranean, North Indian",1361.11,18
+Indore,3.97,"North Indian, Chinese",960.0,20
+Inner City,4.9,"European, Contemporary",1120.0,2
+Inverloch,3.7,"Burger, Coffee and Tea, Modern Australian",7.0,1
+Jaipur,4.13,"Cafe, Fast Food, North Indian",1310.0,20
+Jakarta,4.36,"Seafood, Western",308437.5,16
+Johannesburg,4.2,American,470.0,6
+Kanpur,3.82,North Indian,915.0,20
+Kochi,4.08,"Cafe, Continental, Italian",730.0,20
+Kolkata,4.26,"North Indian, Chinese",1272.5,20
+Lakes Entrance,3.8,"Breakfast, Coffee and Tea",7.0,1
+Lakeview,3.6,"Burger, Desserts, Sandwich",10.0,1
+Lincoln,4.5,Thai,25.0,1
+London,4.54,"American, Burger",64.5,20
+Lorn,3.6,"Breakfast, Coffee and Tea",20.0,1
+Lucknow,4.2,"Cafe, Fast Food",859.52,21
+Ludhiana,3.98,"North Indian, Chinese, Continental",1160.0,20
+Macedon,3.5,Cafe,20.0,1
+Macon,4.12,"Japanese, Sushi, Thai",27.25,20
+Makati City,4.65,"French, Japanese, Desserts",1150.0,2
+Manchester,4.04,Italian,49.25,20
+Mandaluyong City,4.62,Chinese,2000.0,4
+Mangalore,3.74,Seafood,782.5,20
+Mayfield,2.9,Asian,20.0,1
+Mc Millan,2.4,"Breakfast, Burger",10.0,1
+Middleton Beach,3.8,"Bar Food, Modern Australian",30.0,1
+Miller,3.4,Unknown,0.0,1
+Mohali,4.3,"Continental, North Indian",550.0,1
+Monroe,3.6,"Italian, Pizza",25.0,1
+Montville,2.4,"Coffee and Tea, Modern Australian",30.0,1
+Mumbai,4.08,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",1072.5,20
+Mysore,3.7,"North Indian, Chinese, South Indian",814.5,20
+Nagpur,3.96,Cafe,715.0,20
+Nashik,3.52,North Indian,662.5,20
+New Delhi,2.44,North Indian,596.09,5473
+Noida,2.04,North Indian,539.49,1080
+Ojo Caliente,3.6,"American, International, Southwestern",40.0,1
+Orlando,4.47,American,40.25,20
+Palm Cove,4.4,"Mediterranean, Seafood",30.0,1
+Panchkula,4.2,"North Indian, Middle Eastern, Pizza",2000.0,1
+Pasay City,4.37,"Asian, European",3333.33,3
+Pasig City,4.63,"American, Ice Cream, Desserts",933.33,3
+Patna,3.45,"North Indian, Chinese",797.5,20
+Paynesville,2.6,Modern Australian,120.0,1
+Penola,3.4,"Cafe, Coffee and Tea, Sandwich",20.0,1
+Pensacola,4.2,"American, Seafood, Sushi",30.25,20
+Phillip Island,3.7,"Breakfast, Coffee and Tea, Modern Australian",20.0,1
+Pocatello,3.49,Mexican,20.75,20
+Potrero,3.3,"American, BBQ, Burger",25.0,1
+Pretoria,4.19,African,492.25,20
+Princeton,4.0,Seafood,70.0,1
+Puducherry,3.73,Cafe,842.5,20
+Pune,4.22,"Continental, North Indian, Mughlai, Burmese",1337.5,20
+Quezon City,4.8,"Filipino, Mexican",800.0,1
+Ranchi,3.45,"North Indian, Chinese",735.0,20
+Randburg,4.3,Cafe,200.0,1
+Rest of Hawaii,4.41,"Hawaiian, Seafood, Steak",31.75,20
+Rio de Janeiro,4.26,Brazilian,126.75,20
+San Juan City,4.25,Filipino,850.0,2
+Sandton,4.3,Mexican,375.91,11
+Santa Rosa,3.8,"Cafe, American, Italian, Filipino",825.0,2
+Savannah,4.15,"American, Breakfast",32.5,20
+Secunderabad,4.5,"Cafe, Continental",825.0,2
+Sharjah,4.03,"African, Portuguese",105.5,20
+Singapore,3.58,French,155.75,20
+Sioux City,3.76,"American, Seafood, Steak",24.25,20
+Surat,3.94,"Chinese, Thai, Asian",812.5,20
+S��o Paulo,3.53,Brazilian,157.25,20
+Tagaytay City,4.5,Filipino,1200.0,1
+Taguig City,4.53,"American, Asian, Italian, Seafood",1725.0,4
+Tampa Bay,4.41,"American, Burger",34.75,20
+Tangerang,4.3,Indonesian,250000.0,2
+Tanunda,4.4,"Modern Australian, Australian",30.0,1
+Trentham East,4.1,Australian,20.0,1
+Vadodara,4.03,Cafe,820.0,20
+Valdosta,3.72,Mexican,29.25,20
+Varanasi,3.51,"Chinese, North Indian",505.0,20
+Vernonia,4.3,"Coffee and Tea, Mediterranean",10.0,1
+Victor Harbor,3.6,"Coffee and Tea, Tapas, Australian",20.0,1
+Vineland Station,4.3,"Italian, Mediterranean, Pizza",70.0,1
+Vizag,4.0,Fast Food,780.0,20
+Waterloo,3.65,Chinese,21.25,20
+Weirton,3.9,"Burger, Greek, Sandwich",25.0,1
+Wellington City,4.25,Cafe,71.25,20
+Winchester Bay,3.2,"Burger, Seafood, Steak",25.0,1
+Yorkton,3.3,Asian,25.0,1
+��stanbul,4.29,Cafe,81.43,14
